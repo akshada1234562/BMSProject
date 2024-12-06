@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/angus-activation-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/byte-buddy-1.14.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/cache-api-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/classmate-1.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/ehcache-3.9.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/hibernate-jcache-6.4.4.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jandex-3.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jaxb-core-4.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/protobuf-java-3.21.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/slf4j-api-1.7.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Malabar Tech/Desktop/Hibernatejar/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
